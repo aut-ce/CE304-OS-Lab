@@ -1,6 +1,0 @@
-language: c
-script:
-  - make
-  - cd queue && make && cd -
-  - cd fp/client && make && cd -
-  - cd fp/server && make && cd -
